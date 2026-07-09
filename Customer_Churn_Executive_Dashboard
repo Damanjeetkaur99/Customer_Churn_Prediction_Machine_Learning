@@ -1,0 +1,4 @@
+Developed a 5-page interactive Power BI dashboard to analyze 441K+ customer records, providing executive, customer, financial, predictive, and business insights.
+Built and evaluated Logistic Regression, Decision Tree, and Random Forest models, selecting Random Forest with 99.77% test accuracy and 0.998 ROC-AUC.
+Created interactive KPIs, slicers, revenue impact analysis, customer segmentation, feature importance, and confusion matrix visualizations for decision-making.
+Delivered actionable business recommendations to support proactive customer retention and reduce revenue loss.
